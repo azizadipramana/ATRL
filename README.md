@@ -1,8 +1,6 @@
 
 # Temporal Feature Compression for Renewable Energy Forecasting
 
-Implementation of a temporal feature compression framework for renewable energy forecasting.
-
 ## Requirements
 
 Python >= 3.10
