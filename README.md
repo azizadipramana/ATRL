@@ -1,6 +1,4 @@
-Wkwk iya kalau untuk repo paper memang cukup minimal. Bisa pakai README seperti ini:
 
-````markdown
 # Temporal Feature Compression for Renewable Energy Forecasting
 
 Implementation of a temporal feature compression framework for renewable energy forecasting.
