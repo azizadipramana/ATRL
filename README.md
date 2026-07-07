@@ -75,8 +75,3 @@ result/
 ├── figure/        # Experimental figures
 └── images_paper/  # Paper figures
 ```
-
-```
-
-Ini sudah cukup untuk GitHub repository penelitian. Reviewer/pengunjung biasanya cuma butuh **dependency, cara run, dan mapping file**.
-```
