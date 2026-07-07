@@ -1,5 +1,7 @@
 
-# Temporal Feature Compression for Renewable Energy Forecasting
+# Adaptive Temporal Region Learning (ATRL)
+
+### Submitted to The Indonesia Journal of Science and Technology (Under Editor Review)
 
 ## Requirements
 
