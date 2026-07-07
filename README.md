@@ -4,8 +4,9 @@
 ### Submitted to The Indonesia Journal of Science and Technology (Under Editor Review) at 5 July 2026
 
 ## Requirements
-
+```
 Python >= 3.10
+```
 
 Install dependencies:
 
