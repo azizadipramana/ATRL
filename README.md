@@ -4,29 +4,10 @@
 ### Submitted to The Indonesia Journal of Science and Technology (Under Editor Review) at 5 July 2026
 
 ## Requirements
-```bash
-Python >= 3.10
+
 ```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-````
-
-Main libraries:
-
-* numpy
-* pandas
-* scikit-learn
-* matplotlib
-* xgboost
-* lightgbm
-* openpyxl
-
-## Requirements
-
 - Python >= 3.10
+```
 
 ## Environment Setup (Recommended)
 
@@ -52,12 +33,15 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
+Main libraries:
 
-
-
-
-
-
+* numpy
+* pandas
+* scikit-learn
+* matplotlib
+* xgboost
+* lightgbm
+* openpyxl
 
 
 ## Run Experiment
