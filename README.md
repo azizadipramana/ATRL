@@ -6,7 +6,7 @@
 ## Requirements
 
 ```
-- Python >= 3.10
+Python 3.13.14
 ```
 
 ## Environment Setup (Recommended)
