@@ -24,6 +24,42 @@ Main libraries:
 * lightgbm
 * openpyxl
 
+## Requirements
+
+- Python >= 3.10
+
+## Environment Setup (Recommended)
+
+Create a virtual environment (optional but recommended):
+
+**Windows**
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+**Linux/macOS**
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+
+
+
+
+
+
+
+
 ## Run Experiment
 
 Run notebooks sequentially:
