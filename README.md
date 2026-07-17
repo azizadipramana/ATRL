@@ -9,6 +9,20 @@
 Python 3.13.14
 ```
 
+## Experimental Environment
+
+The experiments were conducted using the following hardware and software configuration.
+
+### Hardware
+
+| Component | Specification |
+|----------|---------------|
+| Operating System | Windows 11 64-bit |
+| Processor | *Your CPU* |
+| Memory | *Your RAM* |
+| Graphics (optional) | *Your GPU* |
+| Storage | *Your SSD/HDD* |
+
 ## Environment Setup (Recommended)
 
 Create a virtual environment (optional but recommended):
