@@ -11,17 +11,15 @@ Python 3.13.14
 
 ## Experimental Environment
 
-The experiments were conducted using the following hardware and software configuration.
-
-### Hardware
+The experiments were conducted using the following hardware configuration.
 
 | Component | Specification |
-|----------|---------------|
+|-----------|---------------|
 | Operating System | Windows 11 64-bit |
-| Processor | *Your CPU* |
-| Memory | *Your RAM* |
-| Graphics (optional) | *Your GPU* |
-| Storage | *Your SSD/HDD* |
+| Processor | 13th Gen Intel® Core™ i7-13620H (10 Cores, 16 Threads, 2.40 GHz) |
+| Memory | 16 GB RAM |
+| Graphics | NVIDIA GeForce RTX 5050 Laptop GPU (8 GB VRAM), Intel® UHD Graphics |
+| Storage | 477 GB SSD |
 
 ## Environment Setup (Recommended)
 
